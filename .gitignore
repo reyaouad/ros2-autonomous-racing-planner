@@ -1,0 +1,22 @@
+# ROS2 build folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs and bags
+*.log
+*.bag
+*.db3
+*.mcap
