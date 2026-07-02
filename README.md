@@ -13,7 +13,7 @@ The planner uses a 2D LiDAR scan to generate candidate rollout trajectories, sco
 
 ### Demo Video
 
-[Watch the demo video](media/demo.webm)
+[Watch the demo video](media/demo_short.webm)
 
 ## Features
 
