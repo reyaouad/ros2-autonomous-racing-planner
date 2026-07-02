@@ -4,6 +4,17 @@ This project contains a ROS2 autonomous racing planner for an Ackermann steering
 
 The planner uses a 2D LiDAR scan to generate candidate rollout trajectories, score them, select the best trajectory, and publish steering and speed commands to the car.
 
+
+## Demo
+
+### Simulation and RViz Preview
+
+![Simulation and RViz preview](media/simulation_rviz.png)
+
+### Demo Video
+
+[Watch the demo video](media/demo.webm)
+
 ## Features
 
 - ROS2 Python planner node
